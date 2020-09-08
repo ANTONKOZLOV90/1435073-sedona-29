@@ -1,8 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [ANTON KOZLOV](https://up.htmlacademy.ru/htmlcss/29/user/1435073).
-* Наставник:
-
+* Наставник:{Владислав Кривокора}(https://htmlacademy.ru/profile/krivokora)
+* Наставник:{Владислав 😊 Кривокора}(https://htmlacademy.ru/profile/krivokora)
 
 ---
 
